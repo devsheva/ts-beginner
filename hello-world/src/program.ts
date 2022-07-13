@@ -1,7 +1,7 @@
 import { sayHello } from './lib/utils';
 
 // declare `result` of type `string`
-var result: number;
+var result: string;
 
 // save return value of `sayHello()` in `result`
 result = sayHello('Ross');
